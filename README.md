@@ -1,9 +1,9 @@
 # Basic-Calculator---Kotlin
-A Calculator that does basic arithmetic using Kotlin
+A Calculator that does basic arithmetic using Kotlin in Intellij that can do division, subtraction, multiplication, addition, square root, and exponents. This Kotlin calculator program allows users to perform arithmetic operations, validate inputs, store calculation history using a data class, handle errors with try-catch blocks, and utilize loops and the when keyword for operation selection, ensuring a user-friendly experience. 
 
 # Kotlin Basic Calculator Overview
 
-My goal for this project was to get an introduction into the Koltin programming language by creating a Basic calculator. I used Andriod Studio for this project because I felt it was an easier program to help me understand Kotlin.
+My goal for this project was to get an introduction into the Koltin programming language by creating a Basic calculator. I used Intellij for this project because I felt it was an easier program to help me understand Kotlin.
 
 This project uses data types, control structures, and object oriented features within Kotlin.
 
