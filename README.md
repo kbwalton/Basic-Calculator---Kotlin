@@ -10,14 +10,16 @@ This project uses data types, control structures, and object oriented features w
 This software is capable of performing basic math opperations such as addition, subtraction, division, and multiplication.
 
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video]([http://youtube.link.goes.here](https://youtu.be/5bpQLBqNO9Y))
 
 # Development Environment
 
 I developed this software using the following tools and technologies:
 
 IDE: IntelliJ IDEA (used for Kotlin development)
+
 Programming Language: Kotlin
+
 Libraries: None (used basic Kotlin features for implementation)
 
 # Useful Websites
