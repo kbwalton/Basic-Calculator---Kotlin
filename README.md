@@ -1,5 +1,5 @@
 # Basic-Calculator---Kotlin
-A Calculator that does basic arithmetic using Kotlin 
+A Calculator that does basic arithmetic using Kotlin
 
 # Kotlin Basic Calculator Overview
 
@@ -16,7 +16,7 @@ This software is capable of performing basic math opperations such as addition, 
 
 I developed this software using the following tools and technologies:
 
-IDE: Android Studio (used for Kotlin development)
+IDE: IntelliJ IDEA (used for Kotlin development)
 Programming Language: Kotlin
 Libraries: None (used basic Kotlin features for implementation)
 
